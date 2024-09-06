@@ -1,5 +1,7 @@
 # ZipBomb
 
+*"OH CRAP WHAT THE HELL IS GOING ON NOW"* - antivirus software that is also probably a virus itself, somewhere, sometime
+
 This is for the people who watch Silicon Valley. In Season 3 Episode 7, Gilfoyle sends a sort of recursive program to Gavin Belson’s laptop and cellphone which forces him to shut down the power at Hooli. Watch [here](https://www.youtube.com/watch?v=UdAqU4GRR9Y). Such a program is called a *zip bomb*.
 
 ![ZipBomb](https://raw.githubusercontent.com/abdulfatir/ZipBomb/master/images/zipbomb.png)
