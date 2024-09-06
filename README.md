@@ -24,6 +24,8 @@ Compressed File Size: 30.58 KB
 Size After Decompression: 10000000000 GB  
 Generation Time: 10.40s
 ```
-
+## Licensing
+The contributor "rabu6809" added the MPL2 license to this repository.
+(to the owner: if you don't like it, change it. I couldn't think of a better option)
 
 
