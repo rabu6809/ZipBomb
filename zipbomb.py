@@ -5,6 +5,10 @@ import os
 import sys
 import time
 
+# Zipbomb.py
+# original by abdulfatir
+# modified to python 2/3 by rabu6809/spade1345
+# all original credit goes to abdulfatir for creating the file!
 
 def get_file_size(filename):
     st = os.stat(filename)
